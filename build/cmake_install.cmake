@@ -133,10 +133,9 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/mahua/tircgo_gmapping_ws/build/gtest/cmake_install.cmake")
   include("/home/mahua/tircgo_gmapping_ws/build/openslam_gmapping/cmake_install.cmake")
   include("/home/mahua/tircgo_gmapping_ws/build/slam_gmapping/slam_gmapping/cmake_install.cmake")
-  include("/home/mahua/tircgo_gmapping_ws/build/main_pkg/cmake_install.cmake")
   include("/home/mahua/tircgo_gmapping_ws/build/rplidar_ros/cmake_install.cmake")
   include("/home/mahua/tircgo_gmapping_ws/build/slam_gmapping/gmapping/cmake_install.cmake")
-  include("/home/mahua/tircgo_gmapping_ws/build/odom_tf_package/cmake_install.cmake")
+  include("/home/mahua/tircgo_gmapping_ws/build/odom/cmake_install.cmake")
 
 endif()
 

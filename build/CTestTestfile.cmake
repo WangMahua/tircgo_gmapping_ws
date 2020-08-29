@@ -7,7 +7,6 @@
 subdirs("gtest")
 subdirs("openslam_gmapping")
 subdirs("slam_gmapping/slam_gmapping")
-subdirs("main_pkg")
 subdirs("rplidar_ros")
 subdirs("slam_gmapping/gmapping")
-subdirs("odom_tf_package")
+subdirs("odom")
